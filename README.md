@@ -1,4 +1,4 @@
-echo "# Task 1
+# Task 1
 
 This repository contains Python code for Task 1, demonstrating basic data processing and machine learning tasks using popular libraries like scikit-learn and pandas.
 
